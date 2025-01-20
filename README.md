@@ -1,4 +1,4 @@
 # Algoritmos para automação
-Repositório para acompanhar meus estudos e projetos da disciplina Algoritmos de Programação.
+Repositório para compartilhar meus trágicos exercícios projetos da disciplina **PMR3201**-Algoritmos para automação do curso de Eng. Mecatrônica da Escola Politécnica da USP.
 
 # Em construção
